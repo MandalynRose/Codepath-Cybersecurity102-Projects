@@ -1,1 +1,3 @@
-# Project 2 - Let's wget This Bread
+# Project 2: Let's wget This Bread
+
+## Overview
