@@ -18,6 +18,6 @@ We'll be handling our own BEC situation, where a malicious actor (played by Leon
 - Extracted important email details, including timestamps, sender and recipient information, subject lines, and message contents.
 - Identified email delivery information associated with the 15360.com domain and the MailEnable ESMTP service.
 ## Screenshots
-![Screenshot 1][P1_Screenshot1.png]
+![Screenshot 1](P1_Screenshot1.png)
 
 
