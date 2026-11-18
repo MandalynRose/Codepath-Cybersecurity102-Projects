@@ -20,4 +20,8 @@ We'll be handling our own BEC situation, where a malicious actor (played by Leon
 ## Screenshots
 <img width="526" height="220" alt="P1_Screenshot1" src="https://github.com/user-attachments/assets/17110266-0270-4c34-a202-9b6316aecd56" />
 
+<img width="530" height="238" alt="P1_Screenshot2" src="https://github.com/user-attachments/assets/fe42f503-9601-4c4d-be96-d3e133ffa0fa" />
+
+<img width="532" height="210" alt="P1_Screenshot3" src="https://github.com/user-attachments/assets/7331e504-fc5d-4f9a-bf3f-318997cc8ae1" />
+
 
