@@ -11,3 +11,4 @@ I used Azure lab services, preconfigured Ubuntu, along with Wireshark in the mac
 ## What I Learned
 
 ## Screenshots
+<img width="526" height="220" alt="image" src="https://github.com/user-attachments/assets/f1b8b2d9-61f3-41fc-8d20-088345bb5f18" />
