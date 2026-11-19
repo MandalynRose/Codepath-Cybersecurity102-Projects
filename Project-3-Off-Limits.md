@@ -18,3 +18,12 @@ You're a red-teamer assessing Wishful Thinking Inc. They run an old FTP service 
 
 ## Screenshots
 <img width="404" height="557" alt="image" src="https://github.com/user-attachments/assets/7efc10ca-1019-4dea-bf5c-441b90777223" />
+
+<img width="407" height="219" alt="image" src="https://github.com/user-attachments/assets/4b3207bd-4131-43e0-9724-8ed26afe6b34" />
+
+<img width="404" height="267" alt="image" src="https://github.com/user-attachments/assets/0112e758-5999-4cec-bb02-7a75606ed34b" />
+
+<img width="407" height="155" alt="image" src="https://github.com/user-attachments/assets/a009075f-5e48-43aa-89b8-de368c1d8ec1" />
+
+## Screenshot of Stretch Challenge
+<img width="407" height="398" alt="image" src="https://github.com/user-attachments/assets/82d13113-f145-4dde-b8a1-b4b6bcd2d695" />
