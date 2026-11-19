@@ -1,4 +1,4 @@
-# Unit 3: Project 3 - Off Limits
+# Project 3: Off Limits
 
 ## Overview
 
