@@ -11,3 +11,4 @@ In this project, you'll write Audit rules to monitor a set of protected files, t
 ## What I Learned
 
 ## Screenshots
+<img width="857" height="547" alt="image" src="https://github.com/user-attachments/assets/4bd32365-74e3-44e1-987c-92d480759965" />
