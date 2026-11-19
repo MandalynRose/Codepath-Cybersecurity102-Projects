@@ -9,6 +9,11 @@ In this project, you'll write Audit rules to monitor a set of protected files, t
 - Azure VM
 
 ## What I Learned
+- Learned how to use Auditd to monitor changes made to files in Linux.
+- Created audit rules using auditctl to track 10 protected files.
+- Used ausearch to check the logs and find which files were changed.
+- Found that attack-a modified clouddia.txt, attack-b modified oakley.txt, and attack-c modified precipitation.csv.
+- Learned how audit logs can help identify which files were affected during a cyberattack.
 
-## Screenshots
+## Screenshot
 <img width="857" height="547" alt="image" src="https://github.com/user-attachments/assets/4bd32365-74e3-44e1-987c-92d480759965" />
