@@ -6,7 +6,12 @@ In real incident response, one of the first questions an analyst asks is: "what 
 In this project, you'll write Audit rules to monitor a set of protected files, then run three attack scripts that silently modify those files. Your job is to use the audit logs to figure out which attack changed which file — the same attribution work analysts do after a real breach.
 
 ## Tools Used
-- Azure VM
+- Azure Virtual Machine (VM)
+- Ubuntu (Linux)
+- Auditd – Monitored file changes
+- auditctl – Created file monitoring rules
+- ausearch – Searched audit logs
+- Linux Terminal – Ran commands and attack scripts
 
 ## What I Learned
 - Learned how to use Auditd to monitor changes made to files in Linux.
