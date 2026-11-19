@@ -17,3 +17,4 @@ You're a red-teamer assessing Wishful Thinking Inc. They run an old FTP service 
 - Learned how proper path validation and restricted file permissions can prevent or limit path traversal attacks.
 
 ## Screenshots
+<img width="404" height="557" alt="image" src="https://github.com/user-attachments/assets/7efc10ca-1019-4dea-bf5c-441b90777223" />
