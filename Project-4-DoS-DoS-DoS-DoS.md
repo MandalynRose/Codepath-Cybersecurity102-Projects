@@ -6,7 +6,17 @@ Cyber attacks that have increased in popularity over the years are DDoS (Distrib
 For this project, we'll be running a type of DoS attack named Slowloris against the local server on our VM and design rules in nginx to mitigate the attack. Unlike volumetric attacks that flood a server with raw traffic, Slowloris holds connections open by sending partial HTTP requests deliberately slowly — exhausting connection limits without generating the volume that traditional DoS defenses look for. For bonus points, we'll also compare some .pcap files to see which one shows server traffic set to mitigate DoS attacks, and which one shows a vulnerable server.
 
 ## Tools Used
+- Ubuntu (Linux)
+- Nginx
+- Slowloris
+- Netdata
+- Firefox
 
 ## What I learned
+- Learned how DoS attacks affect servers.
+- Used Slowloris to simulate a DoS attack.
+- Monitored TCP connections using Netdata.
+- Added security rules to Nginx to help prevent DoS attacks.
+- Compared server activity before and after adding protection.
 
 ## Screenshots
