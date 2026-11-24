@@ -18,3 +18,6 @@ You're the relay analyst on PathCode's CSIRT. A first responder — Sam Johnson 
 - Learned how to write an effective Lessons Learned analysis to help prevent future incidents.
 
 ## Screenshots
+Completed case showing incident IR-2023-002 + at least one documented IOC:
+<img width="528" height="434" alt="image" src="https://github.com/user-attachments/assets/7563970e-9424-4eb1-8726-d6c022745ed4" />
+<img width="527" height="301" alt="image" src="https://github.com/user-attachments/assets/01ff2fdf-f35e-4d67-8748-960fcb565033" />
